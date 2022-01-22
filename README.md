@@ -1,7 +1,7 @@
 Fel 
 Run installer.bat to install 
 you need python!
-
+For updates go on the github!
 
 
 
