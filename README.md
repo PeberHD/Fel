@@ -9,7 +9,7 @@ FEL is created by 2 individuals.
 ```
 [Peber](https://github.com/peberhd)
 ```python
-- PeberHDඞී#1337\493408168961900544
+- PeberHD#1337\493408168961900544
 ```
 [ilol](https://github.com/ilol1337)
 ```python
