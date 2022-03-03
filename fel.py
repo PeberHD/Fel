@@ -236,7 +236,7 @@ Token:          {token}
         userid_bytes = userid.encode('ascii')
         base64_bytes = base64.b64encode(userid_bytes)
         base64_message = base64_bytes.decode('ascii')
-        print(f'Token: {base64_message}')
+        print(f'Token: {base64_message}   \nEDIT: Dont work if they have 2FA')
         fel.main()
 
     def anti_tokengrab():
