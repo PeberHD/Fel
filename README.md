@@ -3,6 +3,8 @@
 FiveM Exploitation Library, for short FEL, is a high quality FiveM and Discord manipulation tool.
 FEL allows you to exploit a server or a user. We made the code decrypted, but soon we will release source. We hope you enjoy the tool!
 
+Edit: DO NOT USE IT FOR BAD PURPOSE!
+
 ### Credits
 ```
 FEL is created by 2 individuals.
